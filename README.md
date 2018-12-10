@@ -1,4 +1,4 @@
-# {{name}} [![npm package version](https://img.shields.io/npm/v/{{name}}.svg)](https://npm.im/{{name}}) [![github license](https://img.shields.io/github/license/vladimyr/{{name}}.svg)](https://github.com/vladimyr/{{name}}/blob/master/LICENSE) [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/Flet/semistandard)
+# {{name}} [![npm package version](https://badgen.net/npm/v/{{name}})](https://npm.im/{{name}}) [![github license](https://badgen.net/github/license/vladimyr/{{name}})](https://github.com/vladimyr/{{name}}/blob/master/LICENSE) [![js semistandard style](https://badgen.net/badge/code%20style/semistandard/pink)](https://github.com/Flet/semistandard)
 
 >{{description}}
 
