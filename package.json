@@ -13,9 +13,9 @@
     "url": "git://github.com/vladimyr/{{name}}.git"
   },
   "author": {
-    "email": "d.vladimyr@gmail.com",
+    "email": "d.vladimyr+dev@gmail.com",
     "name": "Dario Vladovic",
-    "url": "github.com/vladimyr"
+    "url": "https://github.com/vladimyr"
   },
   "license": "{{license}}",
   "bugs": {
