@@ -24,6 +24,7 @@
   "homepage": "https://github.com/vladimyr/{{name}}",
   "dependencies": {},
   "devDependencies": {
+    "@vladimyr/eslint-config": "*",
     "eslint": "^6.1.0",
     "eslint-config-semistandard": "^14.0.0",
     "eslint-config-standard": "^13.0.1",
