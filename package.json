@@ -2,26 +2,26 @@
   "name": "{{name}}",
   "version": "0.0.0",
   "description": "{{description}}",
+  "keywords": [],
+  "homepage": "https://github.com/vladimyr/{{name}}",
+  "bugs": {
+    "url": "https://github.com/vladimyr/{{name}}/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vladimyr/{{name}}.git"
+  },
+  "license": "{{license}}",
+  "author": {
+    "name": "Dario Vladovic",
+    "email": "d.vladimyr+dev@gmail.com",
+    "url": "https://github.com/vladimyr"
+  },
   "main": "index.js",
   "bin": {},
   "scripts": {
     "lint": "eslint ."
   },
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/vladimyr/{{name}}.git"
-  },
-  "author": {
-    "email": "d.vladimyr+dev@gmail.com",
-    "name": "Dario Vladovic",
-    "url": "https://github.com/vladimyr"
-  },
-  "license": "{{license}}",
-  "bugs": {
-    "url": "https://github.com/vladimyr/{{name}}/issues"
-  },
-  "homepage": "https://github.com/vladimyr/{{name}}",
   "dependencies": {},
   "devDependencies": {
     "@vladimyr/eslint-config": "*",
